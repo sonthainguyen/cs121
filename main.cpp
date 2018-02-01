@@ -6,4 +6,5 @@ int main()
 	cout<<"Nhap ba so:\n ";
 	cin>>a>>b>>c;
 	cout<<"Tong ba so:"<<a+b+c<<endl;
-} 
+}
+/* Nguyen Thai Son */ 
